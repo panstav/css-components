@@ -31,9 +31,11 @@ Component CSS provides styling for the following basic page structure
       <button class="c-chrome__body__header__item">...</button>
       <!-- additional header items -->
     </header>
-  </div>
-  <div class="c-chrome__body__content">
-    <main class="c-chrome__body__content__main">
+    <div class="c-chrome__body__content">
+      <main class="c-chrome__body__content__main">
+        <!-- main content area -->
+      </main>
+    </div>
   </div>
 </body>
 ```
